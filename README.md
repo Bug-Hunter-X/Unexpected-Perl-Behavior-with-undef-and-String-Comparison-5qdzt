@@ -1,0 +1,1 @@
+This example demonstrates a common error in Perl when dealing with undefined values and string comparisons. The code attempts to compare an undefined variable to a string. Due to Perl's loose typing and the special behavior of undef, the comparison yields unexpected results. The solution provides a more robust way to handle comparisons involving undefined variables.
